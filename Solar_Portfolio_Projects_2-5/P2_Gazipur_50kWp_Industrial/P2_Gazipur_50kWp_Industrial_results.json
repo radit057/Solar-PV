@@ -1,0 +1,99 @@
+{
+ "annual": {
+  "source": "Meteonorm 9.0 monthly (synthetic hourly)",
+  "E_ac_kWh": 60756.277901212576,
+  "GHI": 1556.3999999999999,
+  "POA": 1603.7737804254791,
+  "specific_yield": 1227.3995535598501,
+  "PR": 0.7653196283295157,
+  "peak_ac_kw": 37.99031742510419,
+  "clipping_kWh": 227.48152206246078,
+  "losses_pct": 8.250914202400006,
+  "temp_loss_pct": 10.240672017321096,
+  "E_nominal_kWh": 79386.80213106121,
+  "E_effective_kWh": 76215.94837702195,
+  "E_dc_kWh": 68410.92307884038,
+  "E_dc_net_kWh": 62766.3965105354
+ },
+ "monthly": {
+  "Jan": {
+   "GHI_kWh_m2": 121.1,
+   "POA_kWh_m2": 130.651,
+   "E_ac_kWh": 5082.574,
+   "PR": 0.786
+  },
+  "Feb": {
+   "GHI_kWh_m2": 130.5,
+   "POA_kWh_m2": 137.929,
+   "E_ac_kWh": 5252.534,
+   "PR": 0.769
+  },
+  "Mar": {
+   "GHI_kWh_m2": 167.3,
+   "POA_kWh_m2": 172.779,
+   "E_ac_kWh": 6426.839,
+   "PR": 0.751
+  },
+  "Apr": {
+   "GHI_kWh_m2": 158.6,
+   "POA_kWh_m2": 160.329,
+   "E_ac_kWh": 5966.073,
+   "PR": 0.752
+  },
+  "May": {
+   "GHI_kWh_m2": 152.1,
+   "POA_kWh_m2": 151.764,
+   "E_ac_kWh": 5678.534,
+   "PR": 0.756
+  },
+  "Jun": {
+   "GHI_kWh_m2": 120.4,
+   "POA_kWh_m2": 119.57,
+   "E_ac_kWh": 4527.491,
+   "PR": 0.765
+  },
+  "Jul": {
+   "GHI_kWh_m2": 117.3,
+   "POA_kWh_m2": 116.78,
+   "E_ac_kWh": 4447.69,
+   "PR": 0.769
+  },
+  "Aug": {
+   "GHI_kWh_m2": 124.8,
+   "POA_kWh_m2": 125.535,
+   "E_ac_kWh": 4731.529,
+   "PR": 0.761
+  },
+  "Sep": {
+   "GHI_kWh_m2": 118.7,
+   "POA_kWh_m2": 121.018,
+   "E_ac_kWh": 4552.201,
+   "PR": 0.76
+  },
+  "Oct": {
+   "GHI_kWh_m2": 122.8,
+   "POA_kWh_m2": 128.045,
+   "E_ac_kWh": 4856.853,
+   "PR": 0.766
+  },
+  "Nov": {
+   "GHI_kWh_m2": 114.3,
+   "POA_kWh_m2": 122.19,
+   "E_ac_kWh": 4680.217,
+   "PR": 0.774
+  },
+  "Dec": {
+   "GHI_kWh_m2": 108.5,
+   "POA_kWh_m2": 117.185,
+   "E_ac_kWh": 4553.744,
+   "PR": 0.785
+  }
+ },
+ "hand_kWh": 61125.057223043485,
+ "factory": {
+  "self_consumed": 0.9477349443363255,
+  "export_kWh": 3175.4302464245425,
+  "share_of_daytime_load": 0.1299324118936457,
+  "load_kWh": 443160.0
+ }
+}

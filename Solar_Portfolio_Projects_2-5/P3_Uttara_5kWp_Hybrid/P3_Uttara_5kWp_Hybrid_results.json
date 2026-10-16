@@ -1,0 +1,104 @@
+{
+ "annual": {
+  "source": "Meteonorm 9.0 monthly (synthetic hourly)",
+  "E_ac_kWh": 6587.801189765416,
+  "GHI": 1556.3999999999999,
+  "POA": 1670.6222459993282,
+  "specific_yield": 1330.8689272253366,
+  "PR": 0.7966306748353162,
+  "peak_ac_kw": 4.233408138448018,
+  "clipping_kWh": 33.04438795745993,
+  "losses_pct": 8.226901146025012,
+  "temp_loss_pct": 6.720660835227621,
+  "E_nominal_kWh": 8269.580117696674,
+  "E_effective_kWh": 7962.250571589286,
+  "E_dc_kWh": 7427.134715821797,
+  "E_dc_net_kWh": 6816.111684769032
+ },
+ "monthly": {
+  "Jan": {
+   "GHI_kWh_m2": 121.1,
+   "POA_kWh_m2": 147.241,
+   "E_ac_kWh": 597.774,
+   "PR": 0.82
+  },
+  "Feb": {
+   "GHI_kWh_m2": 130.5,
+   "POA_kWh_m2": 150.238,
+   "E_ac_kWh": 598.446,
+   "PR": 0.805
+  },
+  "Mar": {
+   "GHI_kWh_m2": 167.3,
+   "POA_kWh_m2": 180.569,
+   "E_ac_kWh": 704.789,
+   "PR": 0.789
+  },
+  "Apr": {
+   "GHI_kWh_m2": 158.6,
+   "POA_kWh_m2": 160.993,
+   "E_ac_kWh": 625.86,
+   "PR": 0.785
+  },
+  "May": {
+   "GHI_kWh_m2": 152.1,
+   "POA_kWh_m2": 148.605,
+   "E_ac_kWh": 578.389,
+   "PR": 0.786
+  },
+  "Jun": {
+   "GHI_kWh_m2": 120.4,
+   "POA_kWh_m2": 116.135,
+   "E_ac_kWh": 453.481,
+   "PR": 0.789
+  },
+  "Jul": {
+   "GHI_kWh_m2": 117.3,
+   "POA_kWh_m2": 113.945,
+   "E_ac_kWh": 446.433,
+   "PR": 0.792
+  },
+  "Aug": {
+   "GHI_kWh_m2": 124.8,
+   "POA_kWh_m2": 124.915,
+   "E_ac_kWh": 487.245,
+   "PR": 0.788
+  },
+  "Sep": {
+   "GHI_kWh_m2": 118.7,
+   "POA_kWh_m2": 123.644,
+   "E_ac_kWh": 482.171,
+   "PR": 0.788
+  },
+  "Oct": {
+   "GHI_kWh_m2": 122.8,
+   "POA_kWh_m2": 136.258,
+   "E_ac_kWh": 536.541,
+   "PR": 0.795
+  },
+  "Nov": {
+   "GHI_kWh_m2": 114.3,
+   "POA_kWh_m2": 135.736,
+   "E_ac_kWh": 541.287,
+   "PR": 0.806
+  },
+  "Dec": {
+   "GHI_kWh_m2": 108.5,
+   "POA_kWh_m2": 132.344,
+   "E_ac_kWh": 535.385,
+   "PR": 0.817
+  }
+ },
+ "hand_kWh": 6075.958045108696,
+ "battery": {
+  "pv_kWh": 6587.801189765418,
+  "load_kWh": 5500.398249452954,
+  "self_consumption": 0.8139808827676495,
+  "self_sufficiency": 0.929836601265079,
+  "export_kWh": 1225.4569618223907,
+  "import_kWh": 334.48708072729875,
+  "battery_cycles": 313.7021931448243,
+  "outage_hours": 730.0,
+  "outage_served": 0.9315068493150684
+ }
+}

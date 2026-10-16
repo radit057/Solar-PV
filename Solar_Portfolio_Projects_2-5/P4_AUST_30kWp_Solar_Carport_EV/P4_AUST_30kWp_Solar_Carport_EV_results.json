@@ -1,0 +1,111 @@
+{
+ "annual": {
+  "source": "Meteonorm 9.0 monthly (synthetic hourly)",
+  "E_ac_kWh": 39277.678928351095,
+  "GHI": 1556.3999999999999,
+  "POA": 1641.2737166257323,
+  "specific_yield": 1322.4807719983535,
+  "PR": 0.8057649120935293,
+  "peak_ac_kw": 25.0,
+  "clipping_kWh": 141.78115561762144,
+  "losses_pct": 7.295194558675011,
+  "temp_loss_pct": 6.643888933097097,
+  "E_nominal_kWh": 48745.82938378425,
+  "E_effective_kWh": 46878.36499805371,
+  "E_dc_kWh": 43763.818493931154,
+  "E_dc_net_kWh": 40571.162788493486
+ },
+ "monthly": {
+  "Jan": {
+   "GHI_kWh_m2": 121.1,
+   "POA_kWh_m2": 139.297,
+   "E_ac_kWh": 3425.817,
+   "PR": 0.828
+  },
+  "Feb": {
+   "GHI_kWh_m2": 130.5,
+   "POA_kWh_m2": 144.466,
+   "E_ac_kWh": 3490.303,
+   "PR": 0.813
+  },
+  "Mar": {
+   "GHI_kWh_m2": 167.3,
+   "POA_kWh_m2": 177.147,
+   "E_ac_kWh": 4196.583,
+   "PR": 0.798
+  },
+  "Apr": {
+   "GHI_kWh_m2": 158.6,
+   "POA_kWh_m2": 161.071,
+   "E_ac_kWh": 3801.596,
+   "PR": 0.795
+  },
+  "May": {
+   "GHI_kWh_m2": 152.1,
+   "POA_kWh_m2": 150.547,
+   "E_ac_kWh": 3560.196,
+   "PR": 0.796
+  },
+  "Jun": {
+   "GHI_kWh_m2": 120.4,
+   "POA_kWh_m2": 118.117,
+   "E_ac_kWh": 2805.403,
+   "PR": 0.8
+  },
+  "Jul": {
+   "GHI_kWh_m2": 117.3,
+   "POA_kWh_m2": 115.629,
+   "E_ac_kWh": 2756.512,
+   "PR": 0.803
+  },
+  "Aug": {
+   "GHI_kWh_m2": 124.8,
+   "POA_kWh_m2": 125.533,
+   "E_ac_kWh": 2977.343,
+   "PR": 0.799
+  },
+  "Sep": {
+   "GHI_kWh_m2": 118.7,
+   "POA_kWh_m2": 122.631,
+   "E_ac_kWh": 2906.542,
+   "PR": 0.798
+  },
+  "Oct": {
+   "GHI_kWh_m2": 122.8,
+   "POA_kWh_m2": 132.487,
+   "E_ac_kWh": 3167.216,
+   "PR": 0.805
+  },
+  "Nov": {
+   "GHI_kWh_m2": 114.3,
+   "POA_kWh_m2": 129.291,
+   "E_ac_kWh": 3125.879,
+   "PR": 0.814
+  },
+  "Dec": {
+   "GHI_kWh_m2": 108.5,
+   "POA_kWh_m2": 125.058,
+   "E_ac_kWh": 3064.289,
+   "PR": 0.825
+  }
+ },
+ "hand_kWh": 38250.77565913044,
+ "ev": {
+  "Typical arrivals (08, 09, 16, 17 h)": {
+   "ev_kWh": 22960.0,
+   "solar_to_ev_kWh": 12466.319528306632,
+   "solar_share_of_ev": 0.5429581676091739,
+   "pv_to_campus_kWh": 26811.359400044465,
+   "grid_to_ev_kWh": 10493.680471693368,
+   "peak_grid_kw": 14.8
+  },
+  "Solar-aligned (09, 10, 12, 13 h)": {
+   "ev_kWh": 22960.0,
+   "solar_to_ev_kWh": 21091.94712580653,
+   "solar_share_of_ev": 0.9186388120995876,
+   "pv_to_campus_kWh": 18185.731802544564,
+   "grid_to_ev_kWh": 1868.0528741934684,
+   "peak_grid_kw": 12.931450101074448
+  }
+ }
+}
